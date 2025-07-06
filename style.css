@@ -4,7 +4,7 @@
 }
 .main{
     width: 100%;
-    background-image: url(m.avif);
+    background-image: url(images/m.avif);
     background-position: center;
     background-size: cover;
     height: 109vh;
